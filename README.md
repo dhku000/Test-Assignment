@@ -21,7 +21,7 @@ Output:
 13. Push both the R markdown file (.Rmd) and the generated .html files to the new folder you created previously.
 14. Embed the course logo in the root Readme using Markdown 
 15. Link your R Markdown report using Markdown
-[Assignment.Rmd]
+[(https://github.com/dhku000/Test-Assignment/blob/87d57b6791e50ee1ef2b243de4b931a75490b0a8/Assignment.Rmd)]
 
 🚀 Stretch Goals: Terminal Challenge
 Switch to the Terminal tab in RStudio. Find the correct commands to complete these tasks without using the Git GUI buttons.
