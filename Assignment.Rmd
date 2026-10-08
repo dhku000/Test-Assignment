@@ -1,0 +1,22 @@
+---
+title: "My Submission"
+author: "Rora"
+date: "2026-10-08"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Why version control is useful
+1. to record the process of the analysis
+2. to make the analysis/ research replicable for others and for yourself
+3. to have all version of the codes and data avilable 
+
+
+```{r }
+1 + 1
+```
+
+
