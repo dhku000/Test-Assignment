@@ -14,7 +14,7 @@ To complete this assignment please do not use the website GUI unless specificall
 9. Add the course logo image file to your repository.
 10. Create and Knit an R Markdown as a HTML file with these components:
 Title: "My Submission"
-Author: 
+Author: Rora
 Output: 
 11. Add a Level 2 header to the markdown file and a numbered list of three reasons why version control is useful
 12. In your R markdown file add a code snippt box that solves 1 + 1
