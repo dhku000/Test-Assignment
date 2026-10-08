@@ -15,8 +15,11 @@ knitr::opts_chunk$set(echo = TRUE)
 3. to have all version of the codes and data avilable 
 
 
-```{r }
+```{r adding}
 1 + 1
 ```
 
+```{r logo}
+knitr::include_graphics("DataSciEES_logo.jpg")
 
+```
